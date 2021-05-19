@@ -4,7 +4,7 @@ import eCommerce from "../img/E-Commerce-App.PNG"
 import {Carousel} from 'react-bootstrap'
 let Projects = () => {
     return (
-        <div className="container d-flex flex-column">
+        <div className="container d-flex flex-column pt-3">
             <div className="d-flex justify-content-center">
                 <h1 className="py-2">Projects</h1>
             </div>
