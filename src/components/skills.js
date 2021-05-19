@@ -10,7 +10,7 @@ import NODE from '../img/node.jpg'
 let Skills = () => {
     return (
         <div>
-            <div className="d-flex justify-content-center container pb-5">
+            <div className="d-flex justify-content-center container py-5">
                 <h1>My Skills</h1>
             </div>
             <div className="container ">
