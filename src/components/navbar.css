@@ -1,0 +1,12 @@
+.nav-link {
+    color: #FF5722!important;
+}
+.nav-link:hover {
+    color: #212121!important;
+    transform: scale(1.05)
+}
+@media Screen and (max-width: 767px) {
+    #navbar-container {
+        border-bottom: 1px solid #FF5722;
+    }
+}

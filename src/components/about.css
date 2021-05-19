@@ -1,0 +1,20 @@
+html,
+body {
+    overflow-x: hidden!important;
+}
+#deer-img {
+    max-width: 95%;
+    height: auto;
+    border: 5px solid #BDBDBD;
+}
+#hiking-img {
+    max-width: 95%;
+    height: auto;
+    border: 5px solid #BDBDBD;
+}
+@media Screen and (max-width: 997px) {
+    #img-container {
+        flex-direction: column!important;
+    }
+}
+
