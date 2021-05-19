@@ -17,6 +17,9 @@ let NavbarComponent = () => {
                     <LinkContainer to="/skills">
                         <Nav.Link className="nav-link px-2">Skills</Nav.Link>
                     </LinkContainer>
+                    <LinkContainer to="/coursework">
+                        <Nav.Link className="nav-link px-2">Coursework</Nav.Link>
+                    </LinkContainer>
                     <LinkContainer to="/experience">
                         <Nav.Link className="nav-link px-2">Experience</Nav.Link>
                     </LinkContainer>

@@ -40,10 +40,10 @@ let About = () => {
                             </p>
                         </div>
                         <div className="container d-flex justify-content-between pb-3" id="img-container">
-                            <div className="d-flex justify-content-center pb-1">
+                            <div className="d-flex justify-content-center pb-1 px-1">
                                     <img src={deer} alt="" id="deer-img" />
                             </div>
-                            <div className="d-flex justify-content-center pb-1">
+                            <div className="d-flex justify-content-center pb-1 px-1">
                                     <img src={hiking} alt="" id="hiking-img" />
                             </div>
                         </div>

@@ -13,6 +13,7 @@ import Footer from './components/footer'
 import Skills from './components/skills'
 import Experience from './components/experience'
 import Projects from './components/projects'
+import Coursework from './components/coursework';
 function App() {
     return (
         <div className="page-container">
@@ -25,6 +26,7 @@ function App() {
                         <Route exact path="/skills" component={Skills} />
                         <Route exact path="/experience" component={Experience} />
                         <Route exact path="/projects" component={Projects} />
+                        <Route exact path="/coursework" component={Coursework} />
                         <Route exact path="*" component={ErrorPage} />
                     </Switch>
                 </Router>
