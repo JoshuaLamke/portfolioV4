@@ -10,7 +10,7 @@ let Coursework = () => {
     return (
         <div className="container d-flex flex-column align-items-center pt-3">
             <div className="d-flex justify-content-center">
-                <h1><u>Relevant Coursework</u></h1>
+                <h1>Relevant Coursework</h1>
             </div>
             <div className="pt-3 w-100">
                 <div className="row d-flex justify-content-center">
