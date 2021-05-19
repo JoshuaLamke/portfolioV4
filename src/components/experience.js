@@ -2,7 +2,7 @@ import './experience.css'
 let Experience = () => {
     return (
         <div>
-            <div className="container d-flex justify-content-center">
+            <div className="container d-flex justify-content-center pt-3">
                 <h1>Work Experience</h1>
             </div>
             <div className="container d-flex flex-column align-items-start pt-5">
