@@ -1,7 +1,4 @@
 import weather from "../img/Weather-App.PNG"
-import todo from "../img/Todo-App.PNG"
-import notes from "../img/Notes-App.PNG"
-import hangman from "../img/Hangman-App.PNG"
 import recipe from "../img/recipe-app-login.PNG"
 import eCommerce from "../img/E-Commerce-App.PNG"
 import {Carousel} from 'react-bootstrap'
